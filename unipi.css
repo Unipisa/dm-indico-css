@@ -13,7 +13,7 @@ The wrapper of the whole conference page.
   border: none;
   margin: auto;
   background: #f7f7d5;
-  background-image: url("https://raw.githubusercontent.com/Unipisa/dm-indico-css/4363c56a5765c76509c95ab95170ad3b1e13f185/Spiral.svg");
+  background-image: url("https://unipisa.github.io/dm-indico-css/");
   background-repeat: no-repeat;
   background-position: 30px 250px;
 }
