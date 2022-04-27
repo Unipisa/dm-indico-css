@@ -3,6 +3,10 @@
     conference.
 */
 
+body.main {
+    background:#ff8400;
+}
+
 /* ----------- Styles for the conference header ----------- */
 
 /*
@@ -13,9 +17,9 @@ The wrapper of the whole conference page.
   border: none;
   margin: auto;
   background: #f7f7d5;
-  background-image: url("https://unipisa.github.io/dm-indico-css/");
+  background-image: url("https://unipisa.github.io/dm-indico-css/cherubino_pant541.png");
   background-repeat: no-repeat;
-  background-position: 30px 250px;
+  background-position: -10px 200px;
 }
 
 /*
