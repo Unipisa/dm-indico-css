@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   height="300"
+   version="1.1"
+   width="480"
+   id="svg4"
+   sodipodi:docname="Spiral.svg"
+   inkscape:version="0.92.5 (2060ec1f9f, 2020-04-08)">
+  <metadata
+     id="metadata10">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs8" />
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="780"
+     inkscape:window-height="480"
+     id="namedview6"
+     showgrid="false"
+     inkscape:zoom="0.72291667"
+     inkscape:cx="240"
+     inkscape:cy="150"
+     inkscape:window-x="1947"
+     inkscape:window-y="254"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="svg4" />
+  <path
+     d="m 137.24046,87.247688 a 1.4837333,1.453491 0 0 0 -1.48374,-1.453495 2.2256,2.1802365 0 0 0 -2.22559,2.180238 3.7093334,3.6337276 0 0 0 3.70933,3.633725 5.9349335,5.8139642 0 0 0 5.93493,-5.813963 9.6442673,9.4476913 0 0 0 -9.64426,-9.447689 15.579201,15.261656 0 0 0 -15.57921,15.261652 25.223467,24.709348 0 0 0 25.22347,24.709354 A 40.802667,39.971004 0 0 0 183.97806,76.346504 66.026134,64.680351 0 0 0 117.95192,11.66615 106.8288,104.65135 0 0 0 11.123123,116.31751 172.85494,169.33171 0 0 0 183.97806,285.64921"
+     id="path2"
+     inkscape:connector-curvature="0"
+     style="fill:none;stroke:#ff9700;stroke-width:2.93706894;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+</svg>
