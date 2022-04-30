@@ -3,6 +3,10 @@
     conference.
 */
 
+body {
+  _background: #dfe9d3;
+}
+
 /* ----------- Styles for the conference header ----------- */
 
 /*
@@ -12,8 +16,8 @@ The wrapper of the whole conference page.
   width: 100%;
   border: none;
   margin: auto;
-  background: #f7f7d5;
-  background-image: url("https://unipisa.github.io/dm-indico-css/Spiral.svg");
+  background: #dfe9d3;
+  background-image: url("https://unipisa.github.io/dm-indico-css/Squares.svg");
   background-repeat: no-repeat;
   background-position: 30px 250px;
 }
@@ -24,9 +28,9 @@ Wraps around the upper part of the conference header.
 .confTitleBox {
   color: white;
   min-height: 90px;
-  border-top: 3px solid #fbff00;
-  border-bottom: 3px solid #fbff00;
-  background: #ff8400;
+  border-top: 3px solid #dfe9d3;
+  border-bottom: 3px solid #dfe9d3;
+  background: #003c71;
 }
 
 /*
@@ -51,7 +55,9 @@ on the left of the conference title.
 The style for the title text.
 */
 .conference-title-link {
-  font-size: 22pt;
+  font-size: 30pt;
+  font-style: italic;
+  font-weight: 300;
   display: block;
   padding: 25px 0;
   color: white;
@@ -116,7 +122,7 @@ By default centered with a fix width.
   width: 950px;
   margin: 0 auto;
   margin-top: 30px;
-  background: #f7f7d5;
+  background: #dfe9d3a0;
 }
 
 /* ----------- Styles for the menu ----------- */
@@ -197,7 +203,7 @@ Support box
 
 .support_box > h3 {
   color: #f3f3f3;
-  background: #ff8400;
+  background: #003c71;
 }
 
 /* ----------- Styles for the page content ----------- */
